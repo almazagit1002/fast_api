@@ -4,7 +4,7 @@
 ## Prerequisites
 Before running the FastAPI API and client examples, make sure you have the following installed:
 
-Python (version >= 3.6)
+Python (version >= 3.11)
 
 ## Installation
 Clone the Repository:
@@ -21,7 +21,7 @@ cd fast_api
 
 Set Up Python Virtual Environment (Optional but Recommended):
 ```bash
-python3 -m venv venvpi
+python3 -m venv venv
 ```
 
 ```bash
